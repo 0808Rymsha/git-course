@@ -10,3 +10,12 @@
    10  git status 
    11  history 
    12  history >> history.txt
+   13  ls
+   14  git status 
+   15  git add history.txt 
+   16  git status 
+   17  git commit -m "history.txt"
+   18  git push
+   19  ls
+   20  rm history.txt 30.04.2024.md
+   21  history >> history30.04.2024.md
